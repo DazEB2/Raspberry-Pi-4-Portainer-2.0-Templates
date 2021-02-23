@@ -3713,7 +3713,7 @@
 				"Tools"
 			],
 			"description": "Self-hosted, ad-free, privacy-respecting Google metasearch engine.",
-			"image": "brightopia/whoogle-search:aarch64",
+			"image": "benbusby/whoogle-search",
 			"logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/whoogle.png",
 			"name": "whoogle",
 			"platform": "linux",
