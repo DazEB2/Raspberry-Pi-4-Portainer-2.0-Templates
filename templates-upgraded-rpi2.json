@@ -28,7 +28,7 @@
 					"set": "-Xms256m -Xmx512m"
 				}
 			],
-			"image": "ghcr.io/linuxserver/airsonic",
+			"image": "linuxserver/airsonic:latest",
 			"logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/airsonic-logo.png",
 			"name": "airsonic",
 			"platform": "linux",
@@ -3713,7 +3713,7 @@
 				"Tools"
 			],
 			"description": "Self-hosted, ad-free, privacy-respecting Google metasearch engine.",
-			"image": "benbusby/whoogle-search:buildx-experimental",
+			"image": "benbusby/whoogle-search:latest",
 			"logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/whoogle.png",
 			"name": "whoogle",
 			"platform": "linux",
